@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AWSTextractDemo": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AWS_PROFILE": "AWSTextractDemoUSEast2Ohio"
+      }
+    }
+  }
+}
